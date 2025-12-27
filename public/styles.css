@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: 700;
+}
+
+main {
+    width: 80%;
+    max-width: 900px;
+    margin: 2rem auto;
+}
+
+.search-container {
+    margin-bottom: 2rem;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.schedule-item {
+    background: #fff;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-left: 5px solid #333;
+}
+
+.schedule-item.break {
+    border-left-color: #f0ad4e;
+    text-align: center;
+    font-weight: bold;
+}
+
+.schedule-item h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.schedule-item-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #555;
+    font-size: 0.9rem;
+}
+
+.time {
+    font-weight: bold;
+}
+
+.speakers {
+    font-style: italic;
+}
+
+.categories {
+    margin-top: 1rem;
+}
+
+.category-tag {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    padding: 0.3rem 0.7rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    margin-right: 0.5rem;
+}
+
+.hidden {
+    display: none;
+}

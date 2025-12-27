@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Alice Johnson"],
+    "categories": ["javascript", "frontend", "webdev"],
+    "description": "A deep dive into the evolving landscape of JavaScript frameworks, exploring trends and predicting the next generation of tools."
+  },
+  {
+    "title": "Mastering Asynchronous Operations in Node.js",
+    "speakers": ["Bob Smith"],
+    "categories": ["nodejs", "backend", "performance"],
+    "description": "Learn advanced techniques for handling asynchronous code in Node.js, from callbacks to async/await and beyond."
+  },
+  {
+    "title": "Building Scalable APIs with GraphQL",
+    "speakers": ["Charlie Brown", "Diana Prince"],
+    "categories": ["api", "graphql", "backend"],
+    "description": "An introduction to GraphQL and how it can be used to build flexible and scalable APIs that outperform traditional REST."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Modern Approach to Layout",
+    "speakers": ["Eve Adams"],
+    "categories": ["css", "frontend", "design"],
+    "description": "Unlock the power of modern CSS for creating complex and responsive layouts with ease using Grid and Flexbox."
+  },
+  {
+    "title": "Securing Your Web Applications: Best Practices",
+    "speakers": ["Frank White", "Grace Green"],
+    "categories": ["security", "webdev"],
+    "description": "A comprehensive overview of common web security vulnerabilities and the best practices to prevent and mitigate them."
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["Heidi Black"],
+    "categories": ["javascript", "ml", "ai"],
+    "description": "Discover how to build and train machine learning models directly in the browser using the powerful TensorFlow.js library."
+  }
+]
